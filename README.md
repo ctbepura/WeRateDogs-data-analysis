@@ -9,3 +9,6 @@ The primary tool for this analysis is a Jupyter notebook where Python 3.0 is the
 I imported a number of libraries to make the analysis process easier. These libraries were imported with the following import statements:
 ![image](https://user-images.githubusercontent.com/46715348/193687521-3fced122-cdd6-4f73-8dd4-ad055048527f.png)
 
+
+## Insights
+Insights into this analysis can be found on the following link: https://medium.com/@caviebepura/weratedogs-twitter-handle-for-dog-lovers-a-look-at-the-data-7e931b39c9e8
